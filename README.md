@@ -16,3 +16,5 @@ DESCRIPTION: I HAVE USED THE TOOLS VS CODE FOR RUNNING THE JAVA PROGRAM WHICH PR
 
 OUTPUT:
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/699681f2-c676-42be-84e1-dfc304723a28" />
+
